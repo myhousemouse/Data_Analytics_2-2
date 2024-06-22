@@ -1,5 +1,7 @@
 2023년 제작
+
 **프로젝트 설명 (Project Description)**
+
 개요 (Overview)
 이 프로젝트는 2명이 3주 동안 진행한 작업으로, 서울특별시를 대상으로 시민의 안전을 위한 교통현황을 분석하고, 자치구별로 세분화하여 구체적인 해결책을 제시하는 것을 목적으로 합니다.
 
@@ -13,6 +15,7 @@
 -> **내용과 목적의 연결성이 낮아, 이를 기반으로 세개의 행정동을 주제로 다시 데이터 분석을 진행하고 있습니다.**
 
 **프로젝트 구성 (Project Structure)**
+
 데이터 수집 및 전처리 (Data Collection and Preprocessing)
 - 공공데이터를 기반으로 수집했으며, 이와 관련한 데이터 전처리를 진행했습니다
 데이터 분석 (Data Analysis)
@@ -22,6 +25,7 @@
 해결책 제시 (Solution Proposals)
 
 **사용된 기술 (Technologies Used)**
+
 R, 파이썬 사용했습니다.
 
 **역할 (Contributors)**
